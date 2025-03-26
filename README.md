@@ -15,6 +15,7 @@ A repo to store Quirky Websites while directory is in development.
 | Prime Number Game | https://jnlpatel.github.io/PrimeNumber/ | Jinalkumari | [GitHub Repo](https://github.com/Jnlpatel/PrimeNumber) |
 | Meet Queen | https://heatherfeather-code.github.io/Useless-Web/ | Heather | [GitHub Repo](https://github.com/heatherfeather-code/Useless-Web) |
 | Favicon Generator | https://favicongenerator.asurve.com/ | Adil | |
+| Bunny Fireworks | https://jeradb.ca/ | Jerad | |
 
 ## Faculty Examples
 
