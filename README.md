@@ -12,6 +12,7 @@ A repo to store Quirky Websites while directory is in development.
 | DJ Keyboard | https://coder-jinal.github.io/Useless-Web/ |
 | Duck Parade | http://duckparade.42web.io/ |
 | Fun Popcorn Poppers | https://dignapatel0.github.io/Useless_Website_Popcorn_Poppers/ |
+| Prime Number Game | https://jnlpatel.github.io/PrimeNumber/ |
 
 ## Faculty Examples
 
