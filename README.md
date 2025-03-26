@@ -8,6 +8,13 @@ A repo to store Quirky Websites while directory is in development.
 | --- | --- |
 | Wavy Cat | http://wavycat.kesug.com/ |
 
+## Faculty Examples
+
+| Website Name | URL |
+| --- | --- |
+| Pirate Insults | https://pages.codeadam.ca/pirate/ |
+| Smurf Insults | https://pages.codeadam.ca/smurfs/ |
+
 ## BrickMMO
 
 | Website Name | URL |
