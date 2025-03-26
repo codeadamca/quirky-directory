@@ -6,7 +6,7 @@ A repo to store Quirky Websites while directory is in development.
 
 | Website Name | URL | Author | GitHub |
 | --- | --- | --- | --- |
-| Wavy Cat | http://wavycat.kesug.com/ | Sonia | https://github.com/sonia02020202/useless | 
+| Wavy Cat | http://wavycat.kesug.com/ | Sonia | [useless](https://github.com/sonia02020202/useless) | 
 | Car Colour Changer | http://saraththecoder.infinityfreeapp.com/ccc.html | https://github.com/Revokid/Useless_Website |
 | Chaos Lab | http://codeneeraj.free.nf/useless_web/index.html | |
 | DJ Keyboard | https://coder-jinal.github.io/Useless-Web/ | 
