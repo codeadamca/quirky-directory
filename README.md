@@ -14,6 +14,7 @@ A repo to store Quirky Websites while directory is in development.
 | Fun Popcorn Poppers | https://dignapatel0.github.io/Useless_Website_Popcorn_Poppers/ |
 | Prime Number Game | https://jnlpatel.github.io/PrimeNumber/ |
 | Meet Queen | https://heatherfeather-code.github.io/Useless-Web/ |
+| Brustee | https://vee339.github.io/brustee/ |
 
 ## Faculty Examples
 
