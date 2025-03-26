@@ -10,6 +10,7 @@ A repo to store Quirky Websites while directory is in development.
 | Car Colour Changer | http://saraththecoder.infinityfreeapp.com/ccc.html |
 | Chaos Lab | http://codeneeraj.free.nf/useless_web/index.html |
 | DJ Keyboard | https://coder-jinal.github.io/Useless-Web/ |
+| Duck Parade | http://duckparade.42web.io/ |
 
 ## Faculty Examples
 
