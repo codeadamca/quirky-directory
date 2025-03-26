@@ -7,6 +7,7 @@ A repo to store Quirky Websites while directory is in development.
 | Website Name | URL |
 | --- | --- |
 | Wavy Cat | http://wavycat.kesug.com/ |
+| Car Colour Changer | http://saraththecoder.infinityfreeapp.com/ccc.html |
 
 ## Faculty Examples
 
