@@ -15,6 +15,7 @@ A repo to store Quirky Websites while directory is in development.
 | Prime Number Game | https://jnlpatel.github.io/PrimeNumber/ |
 | Meet Queen | https://heatherfeather-code.github.io/Useless-Web/ |
 | Brustee | https://vee339.github.io/brustee/ |
+| Personal Training | https://sam-271102.github.io/Personal-Training-Website/ |
 
 ## Faculty Examples
 
