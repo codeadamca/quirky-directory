@@ -8,6 +8,7 @@ A repo to store Quirky Websites while directory is in development.
 | --- | --- |
 | Wavy Cat | http://wavycat.kesug.com/ |
 | Car Colour Changer | http://saraththecoder.infinityfreeapp.com/ccc.html |
+| Chaos Lab | http://codeneeraj.free.nf/useless_web/index.html |
 
 ## Faculty Examples
 
