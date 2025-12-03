@@ -28,6 +28,7 @@ A repo to store Quirky Websites while directory is in development.
 ## Vibe Coding Examples
 
 | Website | Name | Author | GitHub |
+| --- | --- | --- | --- |
 | https://anslemsgh.github.io/Vibe-Code-UselessButton/ | Useless Button | Anslem | |
 | https://manpreetkalsi24.github.io/Useless-Website2/ | Usless Progress Bar | Manpreet | |
 | https://n01715807.github.io/ass-vibe-coding/ | Compliments | Pengcheng Li |  |
