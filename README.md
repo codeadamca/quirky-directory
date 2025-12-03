@@ -19,11 +19,11 @@ A repo to store Quirky Websites while directory is in development.
 
 | Website Name | URL | Author | GitHub |
 | --- | --- | --- | --- |
-| Catch Me Button | https://rahul-kataria1.github.io/catch-me/ | Rahul | https://github.com/rahul-kataria1/catch-me/ |
-| Puzzle Pop | https://github.com/RipalPatel18/PuzzlePopDigitalPuzzles | Ripal Patel | https://ripalpatel18.github.io/PuzzlePopDigitalPuzzles/ |
-| Doh Major | https://kdel-dev.github.io/uselessWeb-Final/ | Kadelle | https://github.com/kdel-dev/uselessWeb-Final/ | 
-| I have a Secret | https://selvan199711.github.io/HTTP-5214/ | Thamilchselvan Kethareswaran | https://github.com/selvan199711/HTTP-5214/ |
-| Catch Me If You Can | https://manpreetkalsi24.github.io/Useless-Website/ | Manpreet | https://github.com/manpreetkalsi24/Useless-Website/ |
+| Catch Me Button | https://rahul-kataria1.github.io/catch-me/ | Rahul | [GitHub Repo](https://github.com/rahul-kataria1/catch-me/) |
+| Puzzle Pop | https://github.com/RipalPatel18/PuzzlePopDigitalPuzzles | Ripal Patel | [GitHub Repo](https://ripalpatel18.github.io/PuzzlePopDigitalPuzzles/) |
+| Doh Major | https://kdel-dev.github.io/uselessWeb-Final/ | Kadelle | [GitHub Repo](https://github.com/kdel-dev/uselessWeb-Final/) | 
+| I have a Secret | https://selvan199711.github.io/HTTP-5214/ | Thamilchselvan Kethareswaran | [GitHub Repo](https://github.com/selvan199711/HTTP-5214/) |
+| Catch Me If You Can | https://manpreetkalsi24.github.io/Useless-Website/ | Manpreet | [GitHub Repo](https://github.com/manpreetkalsi24/Useless-Website/) |
 
 ## Faculty Examples
 
