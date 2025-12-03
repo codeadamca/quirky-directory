@@ -25,6 +25,20 @@ A repo to store Quirky Websites while directory is in development.
 | I have a Secret | https://selvan199711.github.io/HTTP-5214/ | Thamilchselvan Kethareswaran | [GitHub Repo](https://github.com/selvan199711/HTTP-5214/) |
 | Catch Me If You Can | https://manpreetkalsi24.github.io/Useless-Website/ | Manpreet | [GitHub Repo](https://github.com/manpreetkalsi24/Useless-Website/) |
 
+## Vibe Coding Examples
+
+| Website | Name | Author | GitHub |
+| https://anslemsgh.github.io/Vibe-Code-UselessButton/ | Useless Button | Anslem | |
+| https://manpreetkalsi24.github.io/Useless-Website2/ | Usless Progress Bar | Manpreet | |
+| https://n01715807.github.io/ass-vibe-coding/ | Compliments | Pengcheng Li |  |
+| https://kdel-dev.github.io/VibeCode-UselessWeb/ | Squid Path | Kadelle | |
+| https://chenxi96.github.io/vibe_coding/ | Vowel Detector | Chenxi | |
+| https://samsonmmathews.github.io/invisible-maze/ | Invisible Maze | Samson | |
+| https://rahul-kataria1.github.io/vibe-coding/ | Meme Generator | Rahul | |
+| https://phurten.github.io/HTTP5214-week10-vibecode/ | Snakes and Ladders | Phurten | |
+| https://kongmongvang.github.io/http5214-vibecode/ | Emoji Match | Kong | |
+
+
 ## Faculty Examples
 
 | Website Name | URL | Author | GitHub |
